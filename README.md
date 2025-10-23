@@ -7,7 +7,9 @@
 - NMAP
 - FTP
 
-Desafio Final – Segurança Ofensiva com Kali Linux e Medusa Finalizei mais um desafio incrível na DIO, colocando em prática conceitos de pentest e auditoria de segurança!
+Desafio Final – O que aprendemos no curso de Segurança Ofensiva com Kali Linux e Medusa Finalizei mais um desafio incrível na DIO, colocando em prática conceitos de pentest e auditoria de segurança!
+A seguir segue um pouco do que foi passado em aula.
+
 <p> •	Configurei um ambiente com Kali Linux e Metasploitable 2 via VirtualBox.</p>
 <p>
 •	Executei ataques simulados de força bruta em FTP, automação de login em DVWA, e password spraying em SMB.</p>
